@@ -83,6 +83,9 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Global.asax" />
+    <Content Include="ExternalPHP\post_image.php" />
+    <Content Include="ExternalPHP\post_image2.php" />
+    <Content Include="ExternalPHP\post_image3.php" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
